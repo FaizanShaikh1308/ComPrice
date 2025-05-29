@@ -17,7 +17,7 @@ ComPrice is a web-based application designed to compare the prices of computer c
 ## 🔧 Installation
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/Imran-392/ComPrice.git
+   git clone https://github.com/FaizanShaikh1308/ComPrice.git
    cd ComPrice
    ```
 2. **Create a Virtual Environment (Optional but Recommended)**
